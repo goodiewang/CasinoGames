@@ -1,0 +1,170 @@
+Name:
+    Playing Blackjack
+ID:
+    1.1.1
+Owner:
+    Samuel Wang
+Description:
+    As a Blackjack player, I want to be able to choose Blackjack in this game so that I can play it.
+Acceptance Criteria:
+    Given that I am a Blackjack player, when I start the game, then I should be able to choose Blackjack to play.
+Implementation Details:
+    TBD
+Priority:
+    Med priority
+Effort:
+    High Effort
+
+Name:
+    Playing Craps
+ID:
+    1.1.2
+Owner:
+    Samuel Wang
+Description:
+    As a Craps player, I want to be able to choose Craps in this game so that I can play it.
+Acceptance Criteria:
+    Given that I am a Craps player, when I start the game, then I should be able to choose Craps to play.
+Implementation Details:
+    TBD
+Priority:
+    Med priority
+Effort:
+    High Effort
+
+Name:
+    Blackjack House Edge
+ID:
+    1.2.1
+Owner:
+    Samuel Wang
+Description:
+    As a seasoned Blackjack player, I want to experience the effects of the house edge so that I can train my
+    betting senses better.
+Acceptance Criteria:
+    Given that I am a seasoned Blackjack player, when I choose Blackjack, then I should experience the house edge.
+Implementation Details:
+    TBD
+Priority:
+    Med priority
+Effort:
+    High Effort
+
+Name:
+    Craps House Edge
+ID:
+    1.2.2
+Owner:
+    Samuel Wang
+Description:
+    As a seasoned Craps player, I want to experience the effects of the house edge so that I can train my
+    betting senses better.
+Acceptance Criteria:
+    Given that I am a seasoned Craps player, when I choose Craps, then I should experience the house edge.
+Implementation Details:
+    TBD
+Priority:
+    Med priority
+Effort:
+    High Effort
+
+Name:
+    Different Casinos
+ID:
+    1.3
+Owner:
+    Samuel Wang
+Description:
+    As a casino goer, I want to choose between a number of different casinos with different house rules so that I can
+    try my luck at them different timings.
+Acceptance Criteria:
+    Given that I am a superstitious casino goer, when I want to play, then I choose what casino I want to play in.
+Implementation Details:
+    TBD
+Priority:
+    Med priority
+Effort:
+    Med Effort
+
+Name:
+    Blackjack - Different Tables
+ID:
+    1.4.1
+Owner:
+    Samuel Wang
+Description:
+    As a seasoned Blackjack player, I want to choose between a number of different tables with changing customers and
+    shifting dealers so that I can follow my luck between a set of different tables, dealers, and company.
+Acceptance Criteria:
+    Given that I am a seasoned Blackjack player, when I enter a given casino, then I should be able to choose between
+    a selection of tables that change company and shift dealers periodically.
+Implementation Details:
+    TBD
+Priority:
+    Med Priority
+Effort:
+    High Effort
+
+Name:
+    Craps - Different Tables
+ID:
+    1.4.2
+Owner:
+    Samuel Wang
+Description:
+    As a seasoned Craps player, I want to choose between a number of different tables with changing customers and
+    shifting dealers so that I can follow my luck between a set of different tables, dealers, and company.
+Acceptance Criteria:
+    Given that I am a seasoned Craps player, when I enter a given casino, then I should be able to choose between
+    a selection of tables that change company and shift dealers periodically.
+Implementation Details:
+    TBD
+Priority:
+    Med Priority
+Effort:
+    High Effort
+
+Name:
+ID:
+Owner:
+Description:
+Acceptance Criteria:
+Implementation Details:
+Priority:
+Effort:
+
+Name:
+ID:
+Owner:
+Description:
+Acceptance Criteria:
+Implementation Details:
+Priority:
+Effort:
+
+Name:
+ID:
+Owner:
+Description:
+Acceptance Criteria:
+Implementation Details:
+Priority:
+Effort:
+
+Name:
+ID:
+Owner:
+Description:
+Acceptance Criteria:
+Implementation Details:
+Priority:
+Effort:
+
+Name:
+ID:
+Owner:
+Description:
+Acceptance Criteria:
+Implementation Details:
+Priority:
+Effort:
